@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 1,
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.minimap.enabled": false
+}
