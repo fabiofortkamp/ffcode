@@ -12,6 +12,5 @@ Clone this repository to [the following locations](https://code.visualstudio.com
 
 - Theme: Solarized Dark
 - Icon theme: `vscode-icons`
-- Zoom Level 1
 - No minimap on editors
 
