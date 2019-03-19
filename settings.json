@@ -5,10 +5,5 @@
     "workbench.colorTheme": "Solarized Dark",
     "editor.minimap.enabled": false,
     "python.jediEnabled": false,
-    "java.errors.incompleteClasspath.severity": "ignore",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "vsicons.dontShowNewVersionMessage": true,
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe"
-    "terminal.integrated.shellArgs.windows": ["-c","fish"]
+    "java.errors.incompleteClasspath.severity": "ignore"
 }
