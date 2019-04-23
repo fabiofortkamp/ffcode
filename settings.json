@@ -1,8 +1,7 @@
 {
-    "workbench.iconTheme": "vscode-icons",
     "window.zoomLevel": 0,
     "java.configuration.checkProjectSettingsExclusions": false,
-    "workbench.colorTheme": "Solarized Dark",
+    "workbench.colorTheme": "Dracula",
     "editor.minimap.enabled": false,
     "python.jediEnabled": false,
     "java.errors.incompleteClasspath.severity": "ignore",

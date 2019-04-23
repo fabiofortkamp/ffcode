@@ -10,7 +10,7 @@ Clone this repository to [the following locations](https://code.visualstudio.com
 
 ## Customizations
 
-- Theme: Solarized Dark
+- Theme: Dracula
 - Icon theme: `vscode-icons`
 - No minimap on editors
 
