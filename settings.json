@@ -10,5 +10,6 @@
     "terminal.integrated.rendererType": "dom",
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
     "workbench.iconTheme": "ayu",
-    "python.dataScience.sendSelectionToInteractiveWindow": true
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
 }
