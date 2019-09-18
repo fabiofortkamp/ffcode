@@ -4,7 +4,7 @@
     "workbench.colorTheme": "Dracula",
     "editor.minimap.enabled": false,
     "editor.fontSize": 16,
-    "editor.fontFamily": "Lucida Console",
+    "editor.fontFamily": "Monaco",
     "python.jediEnabled": false,
     "java.errors.incompleteClasspath.severity": "ignore",
     "editor.suggestSelection": "first",
@@ -16,5 +16,5 @@
     "workbench.iconTheme": "ayu",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
-    "terminal.integrated.fontFamily": "consolas",
+    "terminal.integrated.fontFamily": "Monaco",
 }
