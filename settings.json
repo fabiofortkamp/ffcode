@@ -16,4 +16,5 @@
     "workbench.iconTheme": "ayu",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
+    "terminal.integrated.inheritEnv": false,
 }
